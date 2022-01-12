@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Bhandari&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Bhandari)
 ### 
 
 [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-Bhandari&show_icons=true)](https://github.com/Jatin-Bhandari/github-readme-stats)
