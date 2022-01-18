@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning , Deep Learning , Computer Vision
+- 🔭 I’m currently working on Object Detection (Deeplearning based model)
+- 🌱 I’m currently learning Deep Learning , Computer Vision
 - 👯 I’m looking to collaborate on Data Science 
 - 💬 Ask me about anything
 - 📫 How to reach me: 
