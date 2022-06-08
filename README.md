@@ -1,13 +1,11 @@
 ### Hi there 👋
+ 
+<img src="https://lukaszadam.com/assets/downloads/hero-illustration.svg" style="width:50%;margin-left:auto;margin-right:auto" alt="Data Scientist">
 
-
-- 🔭 I’m currently working on Object Detection (Deeplearning based model)
-- 🌱 I’m currently learning Deep Learning , Computer Vision
+- 🔭 I’m currently working on Object Detection (Deep-Learning based model)
+- 🌱 I’m currently learning Deep Learning & Computer Vision
 - 👯 I’m looking to collaborate on Data Science 
 - 💬 Ask me about anything
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### 
 
