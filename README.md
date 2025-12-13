@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lukaszadam.com/assets/downloads/hero-illustration.svg" width="420" alt="Data Illustration"/>
+  <img src="header.gif" width="420" alt="Data Illustration"/>
 </p>
 
 <p align="center">
